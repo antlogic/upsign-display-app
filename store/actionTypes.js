@@ -1,0 +1,11 @@
+export const AUTH_START = 'AUTH_START';
+export const AUTH_SUCCESS = 'AUTH_SUCCESS';
+export const AUTH_FAIL = 'AUTH_FAIL';
+export const GET_START = 'GET_START';
+export const GET_FAIL = 'GET_FAIL';
+export const GET_SUCCESS = 'GET_SUCCESS';
+export const POLL_START = 'POLL_START';
+export const POLL_SUCCESS = 'POLL_SUCCESS';
+export const POLL_FAIL = 'POLL_FAIL';
+export const GET_IMAGE_SUCCESS = 'GET_IMAGE_SUCCESS';
+export const GET_IMAGE_START = 'GET_IMAGE_START';
